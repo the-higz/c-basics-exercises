@@ -5,7 +5,7 @@
     - Calcula a media das notas inseridas
     - O programa encerra quando o usuario digita -1
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
