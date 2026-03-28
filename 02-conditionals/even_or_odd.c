@@ -5,7 +5,7 @@
     - Verifica se o numero e par ou impar
     - Utiliza operador modulo e estrutura condicional
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
