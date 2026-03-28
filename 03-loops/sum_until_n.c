@@ -6,7 +6,7 @@
     - Exibe o resultado final
     - Caso o numero seja negativo, o programa encerra com mensagem de erro
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
