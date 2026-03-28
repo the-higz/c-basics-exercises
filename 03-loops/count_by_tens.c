@@ -5,7 +5,7 @@
     - Quebra a linha sempre que o numero termina em 00
     - Utiliza estrutura de repeticao e condicional
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
