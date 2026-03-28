@@ -6,7 +6,7 @@
     - Conta quantas vezes o maior numero foi informado
     - Utiliza estrutura de repeticao e condicional
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
