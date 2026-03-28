@@ -5,7 +5,7 @@
     - Classifica o clima como frio, agradavel ou quente
     - Utiliza estrutura condicional (if/else)
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
