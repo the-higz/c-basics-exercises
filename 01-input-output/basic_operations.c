@@ -6,7 +6,7 @@
     - Realiza operacoes basicas: soma, subtracao, multiplicacao e divisao
     - Trata o caso de divisao por zero
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
