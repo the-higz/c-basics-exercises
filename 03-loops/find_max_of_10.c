@@ -5,7 +5,7 @@
     - Determina o maior valor entre eles
     - Utiliza estrutura de repeticao e condicional
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
