@@ -5,7 +5,7 @@
     - Calcula a potencia (base elevado ao expoente)
     - Utiliza estrutura de repeticao para realizar o calculo
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
