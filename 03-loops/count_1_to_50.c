@@ -5,7 +5,7 @@
     - Utiliza tres estruturas de repeticao: for, while e do-while
     - Permite comparar o funcionamento de cada uma
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
