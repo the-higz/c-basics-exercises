@@ -6,7 +6,7 @@
     - Permite entrada em metros ou centimetros
     - Utiliza funcao para calcular o volume
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
