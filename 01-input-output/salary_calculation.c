@@ -5,7 +5,7 @@
     - Calcula o pagamento total anual
     - Considera R$10 por hora normal e R$15 por hora extra
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
