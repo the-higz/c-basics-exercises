@@ -5,7 +5,7 @@
     - Exibe os valores em ordem crescente
     - Utiliza estrutura condicional (if/else)
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
