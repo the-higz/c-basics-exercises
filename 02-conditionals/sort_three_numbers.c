@@ -5,7 +5,7 @@
     - Ordena os valores em ordem crescente
     - Utiliza comparacoes e trocas com variavel auxiliar
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
