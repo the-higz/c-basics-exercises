@@ -5,7 +5,7 @@
     - Permite que o usuario digite numeros e calcula seus quadrados
     - O programa encerra quando o usuario digita 0
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
