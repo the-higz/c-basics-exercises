@@ -5,7 +5,7 @@
     - Converte para Fahrenheit
     - Exibe o resultado formatado
 
-    Autor: Guilherme Henrique
+    Autor: the_higz
     Data: 2026
 */
 
